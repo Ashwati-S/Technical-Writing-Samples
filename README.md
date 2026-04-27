@@ -1,1 +1,1 @@
-Technical writing examples of a mixed Yee-Crank-Nicolson Scheme to solve Maxwell's differential equations, a paper on gravitational waves and their connection with general relativity, and a paper on the black hole information paradox.
+Technical writing examples of a mixed Yee-Crank-Nicolson Scheme to solve Maxwell's differential equations, gravitational waves and their connection with general relativity, and the black hole information paradox.
